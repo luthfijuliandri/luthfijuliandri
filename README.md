@@ -1,5 +1,6 @@
 
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*dRpCFDfCC1WUAdE6SB74zA.gif)](https://)
+![Header](./github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Luthfi</h1>
 <h3 align="center">A passionate Data Scientist from Indonesia</h3>
 
