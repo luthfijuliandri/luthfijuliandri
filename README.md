@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luthfi</h1>
 <h3 align="center">A passionate Data Scientist from Indonesia</h3>
 
+<img align="right" alt="coding" width="400" src="https://cdn.prod.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luthfijuliandri&label=Profile%20views&color=0e75b6&style=flat" alt="luthfijuliandri" /> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
